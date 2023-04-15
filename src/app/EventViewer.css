@@ -1,0 +1,11 @@
+.event-viewer {
+  background-color: #1c1c1c;
+  color: #bfbfbf;
+  border: 1px solid #333333;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+  line-height: 16px;
+  padding: 10px;
+  overflow-y: scroll;
+  height: 200px;
+}

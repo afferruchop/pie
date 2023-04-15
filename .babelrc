@@ -1,0 +1,4 @@
+// Se encarga de traducir de react a javascript moderno
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
